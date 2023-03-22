@@ -18,6 +18,12 @@
 Link to the deployed application:
 https://hidden-castle-76230.herokuapp.com/
 
+Screenshots of the deployed page:
+![image](https://user-images.githubusercontent.com/120338398/226778190-13093bc0-1696-40db-91d9-216326aa5f0e.png)
+
+![image](https://user-images.githubusercontent.com/120338398/226778251-4d72860c-2ad3-4cc9-8213-acc4fdcd50a0.png)
+
+
   ## Installation
   After developing the code, the application is deployed on Heroku and github repository
 
